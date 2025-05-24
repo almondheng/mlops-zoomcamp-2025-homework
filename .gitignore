@@ -1,1 +1,6 @@
 data/
+mlruns/
+output/
+artifacts/
+
+backend.db
