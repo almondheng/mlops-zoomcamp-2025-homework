@@ -3,5 +3,6 @@ mlruns/
 output/
 artifacts/
 models/
-
 backend.db
+.pytest_cache/
+localstack_data/
